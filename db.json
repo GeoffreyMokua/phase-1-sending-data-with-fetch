@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,410 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 30
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 31
+    },
+    {
+      "name": "Byron",
+      "dogBreed": "Poodle",
+      "id": 32
+    },
+    {
+      "name": "Byron",
+      "dogBreed": "Poodle",
+      "id": 33
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 34
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 35
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 36
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 37
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 38
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 39
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 40
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 41
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 42
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 43
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 44
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 45
+    },
+    {
+      "name": "Byron",
+      "email": "Poodle",
+      "id": 46
+    },
+    {
+      "name": "",
+      "email": "Poodle",
+      "id": 47
+    },
+    {
+      "name": "",
+      "email": "Poodle",
+      "id": 48
+    },
+    {
+      "name": "Jeff",
+      "email": "Poodle",
+      "id": 49
+    },
+    {
+      "name": "Jeff",
+      "email": "Poodle",
+      "id": 50
+    },
+    {
+      "name": "Jeff",
+      "email": "Poodle",
+      "id": 51
+    },
+    {
+      "name": "Jeff",
+      "email": "Poodle",
+      "id": 52
+    },
+    {
+      "name": "Jeff",
+      "email": "Poodle",
+      "id": 53
+    },
+    {
+      "name": "Jeff",
+      "email": "Poodle",
+      "id": 54
+    },
+    {
+      "name": "Jeff",
+      "email": "jeff",
+      "id": 55
+    },
+    {
+      "name": "Jeff",
+      "email": "jeff",
+      "id": 56
+    },
+    {
+      "name": "Jeff",
+      "email": "jeff",
+      "id": 57
+    },
+    {
+      "name": "Jeff",
+      "email": "jeff",
+      "id": 58
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18",
+      "id": 59
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18",
+      "id": 60
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18",
+      "id": 61
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18",
+      "id": 62
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18",
+      "id": 63
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18",
+      "id": 64
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18",
+      "id": 65
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18",
+      "id": 66
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18",
+      "id": 67
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18",
+      "id": 68
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18",
+      "id": 69
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18",
+      "id": 70
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18@",
+      "id": 71
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18@gmail.com",
+      "id": 72
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18@gmail.com",
+      "id": 73
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18@gmail.com",
+      "id": 74
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18@gmail.com",
+      "id": 75
+    },
+    {
+      "name": "Jeff",
+      "email": "jeffmokua18@gmail.com",
+      "id": 76
+    },
+    {
+      "name": "Steve",
+      "email": "jeffmokua18@gmail.com",
+      "id": 77
+    },
+    {
+      "name": "Steve",
+      "email": "jeffmokua18@gmail.com",
+      "id": 78
+    },
+    {
+      "name": "Steve",
+      "email": "jeffmokua18@gmail.com",
+      "id": 79
+    },
+    {
+      "name": "Steve",
+      "email": "jeffmokua18@gmail.com",
+      "id": 80
+    },
+    {
+      "name": "Steve",
+      "email": "jeffmokua18@gmail.com",
+      "id": 81
+    },
+    {
+      "name": "Steve",
+      "email": "jeffmokua18@gmail.com",
+      "id": 82
+    },
+    {
+      "name": "Steve",
+      "email": "",
+      "id": 83
+    },
+    {
+      "name": "Steve",
+      "email": "",
+      "id": 84
+    },
+    {
+      "name": "Steve",
+      "email": "",
+      "id": 85
+    },
+    {
+      "name": "Steve",
+      "email": "",
+      "id": 86
+    },
+    {
+      "name": "Steve",
+      "email": "",
+      "id": 87
+    },
+    {
+      "name": "Steve",
+      "email": "",
+      "id": 88
+    },
+    {
+      "name": "Steve",
+      "email": "",
+      "id": 89
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 90
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 91
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
